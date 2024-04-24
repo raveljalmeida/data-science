@@ -1,0 +1,27 @@
+Rk: Índice do jogador na lista.
+Player: Nome do jogador.
+Nation: Nacionalidade do jogador.
+Pos: Posição do jogador no campo.
+Squad: Time ao qual o jogador pertence.
+Age: Idade do jogador em 1º de agosto de 2023 (início da temporada).
+Born: Ano de nascimento do jogador.
+90s: Número de intervalos de 90 minutos nos quais o jogador participou.
+Gls: Total de gols marcados pelo jogador.
+Sh: Total de chutes realizados pelo jogador.
+SoT: Chutes no alvo feitos pelo jogador.
+SoT%: Porcentagem de precisão dos chutes.
+Sh/90: Chutes por 90 minutos.
+SoT/90: Chutes no alvo por 90 minutos.
+G/Sh: Gols por chute.
+G/SoT: Gols por chute no alvo.
+Dist: Distância média dos chutes realizados pelo jogador.
+FK: Faltas cobradas pelo jogador.
+PK: Pênaltis convertidos pelo jogador.
+PKatt: Tentativas de pênaltis pelo jogador.
+xG: Gols esperados.
+npxG: Gols esperados excluindo pênaltis.
+npxG/Sh: Gols esperados excluindo pênaltis por chute.
+G-xG: Diferença entre gols reais e gols esperados.
+np:G-xG: Diferença entre gols reais excluindo pênaltis e gols esperados excluindo pênaltis.
+Matches: Link para partidas jogadas como uma string.
+Birth Month: Mês de nascimento do jogador.
